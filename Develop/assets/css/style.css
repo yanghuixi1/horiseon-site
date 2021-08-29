@@ -56,6 +56,7 @@ h2 {
   font-size: 39px;
 }
 
+/* The benefits that our services bring to our clients */
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -88,6 +89,7 @@ aside img {
     "Lucida Sans", Arial, sans-serif;
 }
 
+/* The background image that draws the user's attention when they reach the website */
 .hero {
   height: 800px;
   width: 100%;
@@ -113,6 +115,7 @@ aside img {
   margin-left: 20px;
 }
 
+/* The primary business areas that we service */
 .main-content {
   margin-bottom: 20px;
   padding: 50px;
@@ -122,7 +125,6 @@ aside img {
   color: #ffffff;
 }
 
-/* I notice that the image in the homework folder doesn't include a footer, but I have it anyway, just in case. */
 .footer {
   padding: 20px;
   clear: both;
